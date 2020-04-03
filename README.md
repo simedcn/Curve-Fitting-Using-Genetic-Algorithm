@@ -21,3 +21,10 @@ The followings are the results I got after implementing genetic algorithm to fit
 
 ![](GA%20Curve%20Fitting/trial_1.png)
 
+![](GA%20Curve%20Fitting/trial_3.png)
+
+![](GA%20Curve%20Fitting/trial_6.png)
+
+![](GA%20Curve%20Fitting/trial_10.png)
+
+
