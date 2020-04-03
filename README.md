@@ -14,6 +14,10 @@ The Following flow chart explains the entire process of fitting a curve using Ge
 
 ![](GA%20Curve%20Fitting/flow_chart.png)
 
+
 The followings are the results I got after implementing genetic algorithm to fit the data generated using the equation 
 
-![](GA%20Curve%20Fitting/flow_chart.png)
+![](CodeCogsEqn.gif)
+
+![](GA%20Curve%20Fitting/trial_1.png)
+
